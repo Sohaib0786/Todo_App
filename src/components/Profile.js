@@ -162,7 +162,7 @@ const Profile = () => {
         </div>
 
           <br></br>
-          <br></br>
+        
 
         {/* Bottom Navigation */}
         <div className="border-top d-flex justify-content-around py-2 bg-light mt-5">
