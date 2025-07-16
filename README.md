@@ -13,6 +13,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+### `Installing Dependencies`
+"bootstrap": "^5.3.7",
+"bootstrap-icons": "^1.13.1",
+"dotenv": "^17.2.0",
+"firebase": "^11.10.0",
+"react": "^19.1.0",
+"react-dom": "^19.1.0",
+"react-router-dom": "^7.6.3",
+"react-scripts": "5.0.1",
+"web-vitals": "^2.1.4"
 
 ### `npm test`
 
